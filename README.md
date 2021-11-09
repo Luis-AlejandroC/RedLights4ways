@@ -1,5 +1,5 @@
 # RedLights4ways
-The code solved a problem related to a 4 ways highway red lights avoid without IoT traffic jams.
+The code solved a problem related to a 4 ways highway traffic lights in ladder language.
 
 Watch more in my YouTube channel
 <a href="https://youtu.be/vX32k1g9t7I">
