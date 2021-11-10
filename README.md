@@ -1,4 +1,4 @@
-# RedLights4ways
+# Traffic Lights 4 ways
 The code solved a problem related to a 4 ways highway traffic lights in ladder language.
 
 Watch more in my YouTube channel
